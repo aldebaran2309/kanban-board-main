@@ -2,11 +2,7 @@
   "name": "kanban-board",
   "version": "0.1.0",
   "private": true,
-<<<<<<< HEAD
-  "homepage": "https://johnsmith.github.io/kanban-board",
-=======
-  "homepage": "https://stellular-sherbet-253e0e.netlify.app",
->>>>>>> fdaa5b5ac096b0c1651779cc85865da80654bc14
+  "homepage": "https://stellular-sherbet-253e0e.netlify.app", 
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -23,14 +19,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-<<<<<<< HEAD
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
-},
-=======
     "serve": "serve -s build"
   },
->>>>>>> fdaa5b5ac096b0c1651779cc85865da80654bc14
   "eslintConfig": {
     "extends": [
       "react-app",
