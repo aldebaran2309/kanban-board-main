@@ -2,6 +2,7 @@
   "name": "kanban-board",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://aldebaran2309.github.io/kanban-board-main/",
   "homepage": "https://stellular-sherbet-253e0e.netlify.app", 
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
